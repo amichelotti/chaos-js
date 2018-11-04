@@ -1,0 +1,24 @@
+Wrote to /home/michelo/progetti/chaos-js/package.json:
+
+{
+  "name": "chaos-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jchaos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amichelotti/chaos-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amichelotti/chaos-js/issues"
+  },
+  "homepage": "https://github.com/amichelotti/chaos-js#readme"
+}
+
+
